@@ -130,7 +130,7 @@ header .menu-side .menu-song li img{
    }
    header .menu-side .menu-song li .bi{
     position: absolute;
-    left: 210px;
+    left: 240px;
     top:6px;
     font-size:16px;
    }
@@ -695,6 +695,12 @@ header .menu-side .menu-song li img{
         display: flex;
         margin-right: 10px;
      }
+     header .menu-side .menu-song li .bi{
+        position: absolute;
+        right: 20px;
+        top:6px;
+        font-size:16px;
+       }
 }
 
     @media only screen and (min-width: 801px) and (max-width: 1400px){
@@ -702,6 +708,7 @@ header .menu-side .menu-song li img{
        
 
     }
+<<<<<<< HEAD
     .heart {
         color: rgb(243, 241, 241);
         cursor: pointer;
@@ -1197,3 +1204,7 @@ header .menu-side .menu-song li img{
     }
     
 >>>>>>> 5115d3daff38c839a4903f23f5265527b332eddc
+=======
+
+   
+>>>>>>> 196fb1c88a6642b59f11c90ae956a109a994b34d
