@@ -284,7 +284,7 @@ header .menu_side .playlist h4:hover{
             border-radius: 50%;
             left: -6px;
             top: -6px;
-           box-shadow: inset opx opx 3px #36e2ec;
+           box-shadow: inset 0px 0px 3px #36e2ec;
           }
           header .master_play .bar input{
           position: absolute;
